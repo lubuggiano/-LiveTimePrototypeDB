@@ -2,8 +2,19 @@
     "posts": [
       {
         "id": 1,
-        "title": "topics",
-        "body": "Fire"
+        "title": "Fires"
+      },
+      {
+        "id": 1,
+        "title": "Parades"
+      },
+      {
+        "id": 1,
+        "title": "Amazon"
+      },
+      {
+        "id": 1,
+        "title": "Spain"
       }
     ],
     "profile": {
